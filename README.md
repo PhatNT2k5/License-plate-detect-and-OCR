@@ -155,4 +155,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Demo Videos
 - [Demo Video 1](https://github.com/user-attachments/assets/6071ebb1-4fea-4b9d-a98b-0ea9cd6e547c)
-- [Demo Video 2](https://github.com/user-attachments.async/...???)
+- [Demo Video 2](https://github.com/user-attachments/assets/003ecd92-35c8-4ba7-a5a7-b4921d590b8e)
