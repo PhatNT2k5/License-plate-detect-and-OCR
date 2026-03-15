@@ -1,0 +1,23 @@
+# Core Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Computer Vision
+opencv-python==4.8.1.78
+Pillow==10.0.0
+
+# Deep Learning
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.196
+
+# OCR
+pytesseract==0.3.10
+
+# Utilities
+numpy==1.24.3
+matplotlib==3.7.2
+
+# Image Processing
+scipy==1.11.2
+scikit-image==0.22.0

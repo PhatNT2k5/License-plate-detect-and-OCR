@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Models (very large files)
+*.pt
+*.pth
+*.onnx
+*.pb
+*.h5
+*.hdf5
+*.tflite
+
+# Project specific
+Model_DetectorLP/
+Model_ReaderLP/
+Model_detect_xe/
+runs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Uploads
+static/uploads/*
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Local build files
+build/
+dist/
+
+# Test files
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Documentation
+docs/_build/
+docs/build/
+
+# Data files
+*.csv
+*.json
+*.xml
+*.yaml
+*.yml
+data/
+datasets/
+
+# Cache
+.cache/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Deployment
+*.pem
+*.key
+*.p12
+
+# Backup files
+*.bak
+*.backup

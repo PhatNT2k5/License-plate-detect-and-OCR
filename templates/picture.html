@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='picture.css') }}">
+    <title>Picture</title>
+</head>
+<body>
+    <h1>Upload and Preview Image</h1>
+    <div class="flex-container">
+        <div class="left-side">
+            <input type="file" id="imageInputLeft" accept="image/*">
+            <div class="image-container" id="imageContainerLeft">
+                <span>Upload an image to preview</span>
+                <img id="previewImageLeft">
+            </div>
+        </div>
+        <div class="right-side">
+            <input type="file" id="imageInputRight" accept="image/*">
+            <div class="image-container" id="imageContainerRight">
+                <span>Upload an image to preview</span>
+                <img id="previewImageRight">
+            </div>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/picture.js') }}"></script>
+</body>
+</html>
