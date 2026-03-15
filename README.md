@@ -147,3 +147,12 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - FPT Education for project support
 - Ultralytics for YOLOv8 implementations
 - OpenCV and PyTorch communities
+
+## Datasets
+- **Detection Dataset**: [Detection Dataset](https://drive.google.com/file/d/1xchPXf7a1r466ngow_W_9bittRqQEf_T/view?usp=sharing)
+- **Character Recognition Dataset**: [Character Recognition Dataset](https://drive.google.com/file/d/1bPux9J0e1mz-_Jssx4XX1-wPGamaS8mI/view?usp=sharing)
+- **Roboflow Dataset Source**: [Roboflow Dataset](https://universe.roboflow.com/o23ps6a/license_plates_vietnam/dataset/3)
+
+## Demo Videos
+- [Demo Video 1](https://github.com/user-attachments/assets/6071ebb1-4fea-4b9d-a98b-0ea9cd6e547c)
+- [Demo Video 2](https://github.com/user-attachments.async/...???)
